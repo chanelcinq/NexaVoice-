@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Call Answering Service | NexaVoice | 24/7 Phone Answering Service</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <a href="/">
+                        <img src="images/nexavoice-logo.png" alt="NexaVoice Logo">
+                    </a>
+                </div>
+                <nav class="main-nav">
+                    <ul>
+                        <li><a href="/resources">Resources</a></li>
+                        <li><a href="/pricing">Pricing</a></li>
+                        <li><a href="/login">Login</a></li>
+                    </ul>
+                </nav>
+                <div class="header-cta">
+                    <a href="tel:412-569-0026" class="phone-number">412-569-0026</a>
+                    <a href="#get-started" class="btn btn-primary">Get Started for Free</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="container">
+                <h1>AI answering service for your business calls.</h1>
+                <p class="hero-subtitle">10x better than voicemail. 10x cheaper than an answering service. Grow your business while NexaVoice answers your calls, helps set appointments, and sends you the messages.</p>
+                <a href="#get-started" class="btn btn-primary btn-large">Get Started for Free</a>
+                <p class="trial-note">First 25 minutes completely free. No credit card required.</p>
+                
+                <!-- Demo Interface -->
+                <div class="demo-interface">
+                    <img src="images/demo-interface.png" alt="NexaVoice Demo Interface">
+                    <div class="demo-cta">
+                        <button class="btn btn-secondary">
+                            <span class="play-icon">▶</span>
+                            Watch a demo
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Use Cases Section -->
+        <section class="use-cases">
+            <div class="container">
+                <h2>Listen to NexaVoice in action...</h2>
+                <div class="use-cases-grid">
+                    <div class="use-case-card">
+                        <img src="images/use-case-1.png" alt="Cleaning Service">
+                        <h3>Requesting a move-out cleaning service.</h3>
+                        <div class="audio-player">
+                            <button class="play-button">▶</button>
+                            <div class="progress-bar"></div>
+                        </div>
+                    </div>
+                    <div class="use-case-card">
+                        <img src="images/use-case-2.png" alt="Haircut Appointment">
+                        <h3>Scheduling a haircut appointment.</h3>
+                        <div class="audio-player">
+                            <button class="play-button">▶</button>
+                            <div class="progress-bar"></div>
+                        </div>
+                    </div>
+                    <div class="use-case-card">
+                        <img src="images/use-case-3.png" alt="Hot Tub Cleaning">
+                        <h3>Requesting a hot tub cleaning quote.</h3>
+                        <div class="audio-player">
+                            <button class="play-button">▶</button>
+                            <div class="progress-bar"></div>
+                        </div>
+                    </div>
+                    <div class="use-case-card">
+                        <img src="images/use-case-4.png" alt="HOA Fees">
+                        <h3>Advice on the best way to pay HOA Fees.</h3>
+                        <div class="audio-player">
+                            <button class="play-button">▶</button>
+                            <div class="progress-bar"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Clients Section -->
+        <section class="clients">
+            <div class="container">
+                <h2>Some of our happy clients...</h2>
+                <div class="client-logos">
+                    <!-- Client logos will be added here -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Testimonials Section -->
+        <section class="testimonials">
+            <div class="container">
+                <div class="testimonial">
+                    <div class="quote-icon">❝</div>
+                    <blockquote>
+                        "As someone with 50 years of business experience, I tried many live receptionists and used answering services over the years. One of the biggest challenges I faced was inconsistency in customer interactions, high costs, and employee turnover. After using NexaVoice AI, I fired my live answering service yesterday because NexaVoice provides more accuracy, faster responses, and 24/7 availability—all at a fraction of the cost."
+                    </blockquote>
+                    <div class="testimonial-author">
+                        <img src="images/testimonial-author.png" alt="James Hanner">
+                        <div class="author-info">
+                            <h4>James Hanner</h4>
+                            <p>Owner Southern Indiana Driving School</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Benefits Section -->
+        <section class="benefits">
+            <div class="container">
+                <h2>Never miss an opportunity because you can't answer the phone.</h2>
+                <div class="benefits-grid">
+                    <div class="benefit-card">
+                        <img src="images/benefit-1.png" alt="Never miss a call">
+                        <h3>Never miss another call or opportunity.</h3>
+                        <p>NexaVoice is there anytime you're not available. You'll never miss another opportunity just because you can't answer the phone.</p>
+                    </div>
+                    <div class="benefit-card">
+                        <img src="images/benefit-2.png" alt="No more hangups">
+                        <h3>No more hangups on voicemail.</h3>
+                        <p>No one leaves a voicemail anymore. But everyone talks to NexaVoice. She'll answer the phone, take a message for you, and send it your way.</p>
+                    </div>
+                    <div class="benefit-card">
+                        <img src="images/benefit-3.png" alt="10x cheaper">
+                        <h3>10x cheaper than an answering service.</h3>
+                        <p>There's no need to spend a bunch of money on an outsourced answering service. NexaVoice can do it for you for a fraction of the cost.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Features Section -->
+        <section class="features">
+            <div class="container">
+                <h2>Why NexaVoice is right for your small business.</h2>
+                <p class="features-subtitle">The power of the latest AI tech, working for you 24/7.</p>
+                <div class="features-grid">
+                    <div class="feature-card">
+                        <div class="feature-icon">✨</div>
+                        <h3>Amazing human-like AI to answer your phone</h3>
+                        <p>NexaVoice uses the latest conversational AI to sound natural and handle complex conversations.</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="feature-icon">🔔</div>
+                        <h3>Get notified right away</h3>
+                        <p>NexaVoice will email and/or text you every time a new call comes in, so you can quickly decide how to respond.</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="feature-icon">📝</div>
+                        <h3>Custom message taking</h3>
+                        <p>NexaVoice can be trained to ask specific questions about your business to gather the information you need.</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="feature-icon">🎧</div>
+                        <h3>Recordings, transcripts, & call management</h3>
+                        <p>Every call is recorded, transcribed, and organized in your dashboard for easy reference.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- How It Works Section -->
+        <section class="how-it-works">
+            <div class="container">
+                <h2>How it works</h2>
+                <div class="steps">
+                    <div class="step">
+                        <div class="step-number">1</div>
+                        <h3>Train NexaVoice on your business</h3>
+                        <p>Tell us about your business, services, and how you want calls handled.</p>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">2</div>
+                        <h3>Confirm NexaVoice has things right</h3>
+                        <p>Review and approve how NexaVoice will answer your calls.</p>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">3</div>
+                        <h3>Forward your calls to NexaVoice</h3>
+                        <p>Set up call forwarding from your existing phone number.</p>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">4</div>
+                        <h3>NexaVoice answers your calls and takes messages</h3>
+                        <p>Sit back and let NexaVoice handle your calls while you focus on your business.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Comparison Section -->
+        <section class="comparison">
+            <div class="container">
+                <h2>Let's Compare...</h2>
+                <div class="comparison-tabs">
+                    <button class="tab-btn active" data-tab="voicemail">Voicemail</button>
+                    <button class="tab-btn" data-tab="answering-service">Answering Service</button>
+                </div>
+                <div class="comparison-content">
+                    <div class="comparison-table active" id="voicemail-table">
+                        <div class="comparison-row">
+                            <div class="comparison-feature">Callers hang up</div>
+                            <div class="comparison-voicemail">✓</div>
+                            <div class="comparison-nexavoice">✗</div>
+                        </div>
+                        <div class="comparison-row">
+                            <div class="comparison-feature">Answers 24/7</div>
+                            <div class="comparison-voicemail">✓</div>
+                            <div class="comparison-nexavoice">✓</div>
+                        </div>
+                        <div class="comparison-row">
+                            <div class="comparison-feature">Sounds human</div>
+                            <div class="comparison-voicemail">✗</div>
+                            <div class="comparison-nexavoice">✓</div>
+                        </div>
+                        <div class="comparison-row">
+                            <div class="comparison-feature">Takes messages</div>
+                            <div class="comparison-voicemail">✓</div>
+                            <div class="comparison-nexavoice">✓</div>
+                        </div>
+                        <div class="comparison-row">
+                            <div class="comparison-feature">Asks custom questions</div>
+                            <div class="comparison-voicemail">✗</div>
+                            <div class="comparison-nexavoice">✓</div>
+                        </div>
+                        <div class="comparison-row">
+                            <div class="comparison-feature">Handles complex conversations</div>
+                            <div class="comparison-voicemail">✗</div>
+                            <div class="comparison-nexavoice">✓</div>
+                        </div>
+                    </div>
+                    <div class="comparison-table" id="answering-service-table">
+                        <div class="comparison-row">
+                            <div class="comparison-feature">Answers 24/7</div>
+                            <div class="comparison-answering">✓</div>
+                            <div class="comparison-nexavoice">✓</div>
+                        </div>
+                        <div class="comparison-row">
+                            <div class="comparison-feature">Sounds human</div>
+                            <div class="comparison-answering">✓</div>
+                            <div class="comparison-nexavoice">✓</div>
+                        </div>
+                        <div class="comparison-row">
+                            <div class="comparison-feature">Takes messages</div>
+                            <div class="comparison-answering">✓</div>
+                            <div class="comparison-nexavoice">✓</div>
+                        </div>
+                        <div class="comparison-row">
+                            <div class="comparison-feature">Asks custom questions</div>
+                            <div class="comparison-answering">✓</div>
+                            <div class="comparison-nexavoice">✓</div>
+                        </div>
+                        <div class="comparison-row">
+                            <div class="comparison-feature">Affordable</div>
+                            <div class="comparison-answering">✗</div>
+                            <div class="comparison-nexavoice">✓</div>
+                        </div>
+                        <div class="comparison-row">
+                            <div class="comparison-feature">Consistent quality</div>
+                            <div class="comparison-answering">✗</div>
+                            <div class="comparison-nexavoice">✓</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Industries Section -->
+        <section class="industries">
+            <div class="container">
+                <h2>Built for businesses like yours</h2>
+                <div class="industries-grid">
+                    <a href="/industries/home-services" class="industry-card">
+                        <div class="industry-icon">🏠</div>
+                        <h3>Home Services</h3>
+                    </a>
+                    <a href="/industries/salons" class="industry-card">
+                        <div class="industry-icon">💇</div>
+                        <h3>Salons</h3>
+                    </a>
+                    <a href="/industries/pest-control" class="industry-card">
+                        <div class="industry-icon">🐜</div>
+                        <h3>Pest Control</h3>
+                    </a>
+                    <a href="/industries/medical" class="industry-card">
+                        <div class="industry-icon">⚕️</div>
+   
+(Content truncated due to size limit. Use line ranges to read in chunks)
